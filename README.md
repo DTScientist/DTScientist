@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Ankush Rao - @DTScientist
-- 👀 I’m interested in Data Science and Machine Larning
-- 🌱 I’m currently learning PG programme in Data Sciecne from Data Trained Acedemy. 
-- 💞️ I’m looking to collaborate on our ongoing training programmes and further projects
-
-<!---
-DTScientist/DTScientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Ankush Rao 👋
+**Marketing leader turned AI builder.** After 11 years in B2B marketing, I'm now building AI-powered tools that automate the repetitive work holding businesses back from growth.
+## 🚀 What I'm Building
+•	**AI Agents** — Autonomous systems for research, qualification, and data processing
+•	**Workflow Automation** — N8N + Claude API integrations that eliminate manual handoffs
+•	**RAG Systems** — Internal knowledge, compliance, and document intelligence
+•	**Custom AI Products** — Full-stack LLM applications for B2B use cases
+## 🛠️ Tech Stack
+N8N | Claude API | OpenAI | Python | JavaScript | RAG | Vector DBs | LangChain
+## 📫 Connect
+•	LinkedIn: linkedin.com/in/ankush-rao
+•	Email: ankush.rao@straveins.com
